@@ -6,7 +6,7 @@ class Packages:
     hash_table = HashTable()
 
     def __init__(self):
-        with open('data/package_data.csv') as file:
+        with open('Data/package_data.csv') as file:
             self.data = csv.reader(file, delimiter=',')
             for line in self.data:
                 self.key = line[0]

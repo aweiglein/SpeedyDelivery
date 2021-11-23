@@ -1,4 +1,4 @@
-from models.CSV_Reader import Delivery, reset
+from Models.CSV_Reader import Delivery, reset
 
 sim = Delivery()
 sim.run("16:47")

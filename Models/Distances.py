@@ -1,11 +1,11 @@
 import csv
-from models.HashTable import HashTable
+from Models.HashTable import HashTable
 
-distance_data = list(csv.reader(open('data/distance_data.csv'), delimiter=','))
-address_data = list(csv.reader(open('data/address_data.csv'), delimiter=','))
+distance_data = list(csv.reader(open('Data/distance_data.csv'), delimiter=','))
+address_data = list(csv.reader(open('Data/address_data.csv'), delimiter=','))
 address_table = HashTable()
 
-with open('data/address_data.csv') as file:
+with open('Data/address_data.csv') as file:
     address = csv.reader(file, delimiter=",")
     for line in address:
         key = line[2]
