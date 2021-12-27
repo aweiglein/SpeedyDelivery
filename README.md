@@ -1,6 +1,12 @@
 # WGUPS Routing System
 ###### A CLI application that uses algorithms to map the quickest route for package delivery. 
 
+<p align="center">
+  <kbd>
+<img src="Capture.gif" alt="RoutingSystem" style="border:5px solid grey"></img>
+  </kbd>
+</p><br>
+
 [How to Run](https://github.com/aweiglein/RoutingSystem#how-to-run)  
 [Program Navigation](https://github.com/aweiglein/RoutingSystem#program-navigation)  
 [Assignment Scenario](https://github.com/aweiglein/RoutingSystem#assignment-scenario)  
