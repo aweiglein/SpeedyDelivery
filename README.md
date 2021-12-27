@@ -34,20 +34,20 @@ Follow the instructions in the command line interface to look up information abo
 > <li>No further assumptions exist or are allowed.</li>
 
 ### Competencies
-> **Non-Linear Data**  
-> The graduate creates software applications that incorporate non-linear data structures for efficient and maintainable software.
-> 
-> **Hashing Algorithms and Structures**  
-> The graduate writes code using hashing techniques within an application to perform searching operations.
-> 
-> **Dictionaries and Sets**  
-> The graduate incorporates dictionaries and sets in order to organize data into key-value pairs.
-> 
-> **Self-Adjusting Data Structures**  
-> The graduate evaluates the space and time complexity of self-adjusting data structures using big-O notation to improve the performance of applications.
-> 
-> **Self-Adjusting Heuristics**  
-> The graduate writes code using self-adjusting heuristics to improve the performance of applications.
-> 
-> **NP-Completeness and Turing Machines**  
-> The graduate evaluates computational complexity theories in order to apply models to specific scenarios.
+**Non-Linear Data**  
+The graduate creates software applications that incorporate non-linear data structures for efficient and maintainable software.
+
+**Hashing Algorithms and Structures**  
+The graduate writes code using hashing techniques within an application to perform searching operations.
+
+**Dictionaries and Sets**  
+The graduate incorporates dictionaries and sets in order to organize data into key-value pairs.
+
+**Self-Adjusting Data Structures**  
+The graduate evaluates the space and time complexity of self-adjusting data structures using big-O notation to improve the performance of applications.
+
+**Self-Adjusting Heuristics**  
+The graduate writes code using self-adjusting heuristics to improve the performance of applications.
+
+**NP-Completeness and Turing Machines**  
+The graduate evaluates computational complexity theories in order to apply models to specific scenarios.
