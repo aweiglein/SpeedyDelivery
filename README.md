@@ -1,4 +1,4 @@
-# WGUPS Routing System
+# SpeedRouter
 ###### A CLI application that uses algorithms to map the quickest route for package delivery. 
 
 <p align="center">
